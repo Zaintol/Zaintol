@@ -1,6 +1,6 @@
 # Hi there, I'm Zain Ibrahem 👋
 
-**Head of Engineering** and **Senior Software Engineer** based in Dubai, with 11+ years building software and the teams behind it. For the last five years I've been shipping AI-powered products to production. I set the technical strategy, hire and grow engineers, and still write a lot of the code myself.
+**Head of Engineering** and **Senior Software Engineer** based in Dubai, with 10+ years building software and the teams behind it. For the last five years I've been shipping AI-powered products to production. I set the technical strategy, hire and grow engineers, and still write a lot of the code myself.
 
 ### 🧭 Right now
 Head of Engineering at **ITechCare**, leading a 10+ person engineering and design team (90%+ retention over three years).
@@ -16,7 +16,6 @@ Head of Engineering at **ITechCare**, leading a 10+ person engineering and desig
 *   **Web3:** Smart contracts, wallet auth, ZK-SNARKs.
 
 ### 🚀 Things I've built
-*   **Meridian:** an AI-native SaaS platform I founded and launched, as its sole architect and engineer.
 *   **[Patchline.ai](https://patchline.ai):** an AI-native operating system for the music business. Includes Aria, an AI agent that works in the web app, Slack, and MCP clients (Claude, ChatGPT, Gemini). One track upload produces promo videos, captions, launch calendars, and drop pages.
 *   **ZK Credential Vault:** privacy-preserving credential verification on Ethereum using ZK-SNARKs and Soulbound Tokens. Proofs are generated client-side, so private data never leaves the holder.
 *   **Before that:** led engineering at MyKleo (generative content pipelines for social media) and SportsLive (real-time Web3 sports platform with sub-second latency on Kubernetes).
