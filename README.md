@@ -16,9 +16,9 @@ Head of Engineering at **ITechCare**, leading a 10+ person engineering and desig
 *   **Web3:** Smart contracts, wallet auth, ZK-SNARKs.
 
 ### 🚀 Things I've built
-*   **[Patchline.ai](https://patchline.ai):** an AI-native operating system for the music business. Includes Aria, an AI agent that works in the web app, Slack, and MCP clients (Claude, ChatGPT, Gemini). One track upload produces promo videos, captions, launch calendars, and drop pages.
+*   **[Patchline.ai](https://patchline.ai):** an AI-native operating system for the music business. Includes Aria, an AI agent that works in the web app, Slack, and the web app, Slack, and an MCP server. One track upload produces promo videos, captions, launch calendars, and drop pages.
 *   **ZK Credential Vault:** privacy-preserving credential verification on Ethereum using ZK-SNARKs and Soulbound Tokens. Proofs are generated client-side, so private data never leaves the holder.
-*   **Before that:** led engineering at MyKleo (generative content pipelines for social media) and SportsLive (real-time Web3 sports platform with sub-second latency on Kubernetes).
+*   **Before that:** led engineering at Kleo (generative content pipelines for social media) and SportsLive (real-time Web3 sports platform with sub-second latency on Kubernetes).
 
 ### 📫 Let's connect
 [LinkedIn](https://www.linkedin.com/in/zain-ibrahem) · [zibrahem866@gmail.com](mailto:zibrahem866@gmail.com)
